@@ -15,7 +15,7 @@ This repository contains a simple web application designed for automation testin
 
 To get started with this project, you can visit the hosted version of the Automation Test Website:
 
-[https://sriramanraji.github.io/automationTestWebsite/](https://sriramanraji.github.io/automationTestWebsite/)
+[https://just-sm1.github.io/UITest/](https://just-sm1.github.io/UITest/)
 
 This will allow you to interact with the live version of the website without needing to set up anything locally.
 
